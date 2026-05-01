@@ -32,7 +32,7 @@ Bluehost is a well-known hosting provider, officially recommended by WordPress.o
 4. Enter the coupon code below
 
 ```id="8s1kde"
-BHCART15
+SAVE10BH
 ```
 
 5. Apply the code and confirm the discount
@@ -56,6 +56,6 @@ With this coupon applied, you can reduce the upfront cost. Bluehost already runs
 
 ## Final Words
 
-Using a coupon like BHCART15 is a simple way to save on Bluehost hosting. It is useful for beginners who want a quick discount without using referral links.
+Using a coupon like SAVE10BH is a simple way to save on Bluehost hosting. It is useful for beginners who want a quick discount without using referral links.
 
 This makes Bluehost a solid option for starting a blog or website at a lower cost.
